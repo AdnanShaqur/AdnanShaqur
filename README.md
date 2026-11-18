@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdnanShaqur
-- 👀 I’m interested in Miecraft Addon
-- 🌱 I’m currently learning json,C++ and Java
+- 🌱 I’m currently learning python
+  
 
 <!---
 AdnanShaqur/AdnanShaqur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
